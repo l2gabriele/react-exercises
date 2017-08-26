@@ -1,0 +1,26 @@
+{
+  "name": "react-exercises",
+  "version": "1.0.0",
+  "description": "Each html file in this project contains a react exercise. React and the JSX transformer are already included so you should be able to start coding right away.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Montana-Code-School/react-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Montana-Code-School/react-exercises/issues"
+  },
+  "homepage": "https://github.com/Montana-Code-School/react-exercises#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.7"
+  }
+}
