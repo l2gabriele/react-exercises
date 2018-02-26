@@ -1,0 +1,19 @@
+{
+  "name": "react-exercises",
+  "version": "1.0.0",
+  "description": "Each html file in this project contains a react exercise. React and the JSX transformer are already included so you should be able to start coding right away.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timfoxtimfox/react-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timfoxtimfox/react-exercises/issues"
+  },
+  "homepage": "https://github.com/Timfoxtimfox/react-exercises#readme"
+}
